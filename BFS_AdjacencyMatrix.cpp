@@ -96,3 +96,18 @@ int main() {
     grphobj.BFS(2);
     return 0;
 }
+
+
+/* Output 
+	
+Create the Graph obj
+Add vertices
+Print the Adjacency Matrix
+0 1 1 0 
+1 0 0 1 
+1 0 0 0 
+0 1 0 0 
+ BFS 
+2 0 1 3 
+
+*/
